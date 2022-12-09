@@ -8,6 +8,7 @@ This is a web based application developed for Healthy organic food website.
 
 
 **Project Link** -https://witty-flower-0b7983c10.2.azurestaticapps.net
+
 **project demo video link** - https://youtu.be/5S4tJbXbvx4
 
 ## Azure technologies used for Project
