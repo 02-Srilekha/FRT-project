@@ -32,7 +32,7 @@ This is a web based application developed for Healthy organic food website.
 
    
 ### About Us -
-             ![about](https://user-images.githubusercontent.com/109987386/206748449-b7adbdc9-73d5-4571-b1ec-095992bd19f3.png)
+ ![about](https://user-images.githubusercontent.com/109987386/206748449-b7adbdc9-73d5-4571-b1ec-095992bd19f3.png)
  
 
 
@@ -53,7 +53,7 @@ This is a web based application developed for Healthy organic food website.
 
 
 
-### health bot
+### BotService
 ![bot](https://user-images.githubusercontent.com/109987386/206749391-125a5438-3fda-4a94-9e01-3fb8d9a8697a.png)
 
 
