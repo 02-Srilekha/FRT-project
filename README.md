@@ -32,18 +32,29 @@ This is a web based application developed for Healthy organic food website.
 
    
 ### About Us -
+             ![about](https://user-images.githubusercontent.com/109987386/206748449-b7adbdc9-73d5-4571-b1ec-095992bd19f3.png)
+ 
 
 
 
-### Services -
+### Gallary -
+![g1](https://user-images.githubusercontent.com/109987386/206748606-16ed9b27-c1aa-493d-b349-e600e1d9d4dd.png)
+
+
+### Dropdown -
+![dropdown](https://user-images.githubusercontent.com/109987386/206748808-4ba26323-e4cb-4a50-8abe-1a613cf1c783.png)
 
 
 
 ### Contact us -
+![contact](https://user-images.githubusercontent.com/109987386/206749122-31a09e4c-d507-4388-bd07-573cd2b9613c.png)
+
+
 
 
 
 ### health bot
+![bot](https://user-images.githubusercontent.com/109987386/206749391-125a5438-3fda-4a94-9e01-3fb8d9a8697a.png)
 
 
 
